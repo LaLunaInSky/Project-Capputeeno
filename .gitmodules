@@ -1,0 +1,6 @@
+[submodule "capputeeno-challenge-frontend"]
+	path = capputeeno-challenge-frontend
+	url = https://github.com/LaLunaInSky/capputeeno-challenge-frontend
+[submodule "capputeeno-challenge-api"]
+	path = capputeeno-challenge-api
+	url = https://github.com/LaLunaInSky/capputeeno-challenge-api
